@@ -1,6 +1,6 @@
 # Falling-Leaves-Animation
 Hey, Folks
-I created the illusion if falling leaves via animation
+I created the illusion of falling leaves via animation
 It looks really eye-soothing.
 Have a look at it.
 I also shared a screenshot of it, but its recommended
